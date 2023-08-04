@@ -1,5 +1,5 @@
 #fundo{
     background-image: linear-gradient(to top, #D0B5EC, #C8EFFE);
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
 }
